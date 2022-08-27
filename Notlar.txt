@@ -1,13 +1,13 @@
 White List nedir?
-white list içinde belirtilen API a izin verir.
+white list iÃ§inde belirtilen API a izin verir.
 BlackList nedir?
-black list içinde belirtilen API a izin vermez.
+black list iÃ§inde belirtilen API a izin vermez.
 
 
-Secret Protection(Gizli verilerin korunması)
-ekleyebilmek için projeye sağ tıkla Manage User Secrets içerisine connection stringi yaz
-bu sayede projeni paylaştıgında connection stringini koruma altına alırsın.
-proje ayaga kalktığında projede ki appsetting ile oluşan dosya birleşerek çalışır.
+Secret Protection(Gizli verilerin korunmasÄ±)
+ekleyebilmek iÃ§in projeye saÄŸ tÄ±kla Manage User Secrets iÃ§erisine connection stringi yaz
+bu sayede projeni paylaÅŸtÄ±gÄ±nda connection stringini koruma altÄ±na alÄ±rsÄ±n.
+proje ayaga kalktÄ±ÄŸÄ±nda projede ki appsetting ile oluÅŸan dosya birleÅŸerek Ã§alÄ±ÅŸÄ±r.
 
 
 Encoder
@@ -15,3 +15,5 @@ Encoder
 HtmlEncoder
 JavaScriptEncoder
 UrlEncoder 
+
+Sql Injection
